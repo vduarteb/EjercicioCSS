@@ -1,0 +1,10 @@
+.font-orangered-bold {
+  color: orangered;
+  font-weight: bolder;
+}
+
+.text-input {
+  background-color: greenyellow;
+  margin-bottom: 10px;
+  width: 150px;
+}
